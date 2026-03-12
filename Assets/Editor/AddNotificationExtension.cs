@@ -101,7 +101,7 @@ public static class AddNotificationExtension
         doc.ReadFromFile(plist);
         var root = doc.root;
 
-        root.SetString("NSUserTrackingUsageDescription", "Your data will be used to personalize ads.");
+        //root.SetString("NSUserTrackingUsageDescription", "Your data will be used to personalize ads.");
         root.SetString("NSPhotoLibraryUsageDescription", "Allows photo library access.");
         root.SetString("NSCameraUsageDescription", "Allows camera access.");
         root.SetString("NSMicrophoneUsageDescription", "Allows microphone access.");
