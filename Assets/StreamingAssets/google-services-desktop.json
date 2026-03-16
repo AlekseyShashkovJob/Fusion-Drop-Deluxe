@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "673030944262",
+    "project_id": "fusion-drop-deluxe",
+    "storage_bucket": "fusion-drop-deluxe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673030944262:ios:86ffb5dd2807a98055f587",
+        "android_client_info": {
+          "package_name": "com.dedoded.fusiondropdeluxe"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6_En5BNsdBZRqkCUJhIk9XAfYz-vmRs0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
